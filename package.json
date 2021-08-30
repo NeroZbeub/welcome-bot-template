@@ -1,0 +1,15 @@
+{
+  "name": "Welcome Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Asin",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "canvas": "^2.8.0",
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": "This is a template bot for a welcome message in a banner with the profile picture of the users."
+}
