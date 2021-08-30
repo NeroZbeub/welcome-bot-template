@@ -5,7 +5,6 @@
   "author": "Asin",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
     "canvas": "^2.8.0",
     "discord.js": "^12.5.3"
   },
