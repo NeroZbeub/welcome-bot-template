@@ -8,7 +8,7 @@ const client = new Discord.Client({
 const { MessageAttachment } = require('discord.js')
 const Canvas = require('canvas')
 const path = require('path')
-var channelWelcomeId = '849653597033332746'
+var channelWelcomeId = 'id of the channel here'
 
 client.on('ready', () => {
     client.user.setStatus('Online')
